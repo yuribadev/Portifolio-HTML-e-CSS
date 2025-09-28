@@ -11,7 +11,7 @@ body {
 }
 
 img {
-    width: 350px;
+    width: 300px;
     height: auto;
 }
 
@@ -20,6 +20,8 @@ img {
 }
 
 .apresentacao {
+    margin: 10%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }

@@ -57,6 +57,7 @@ img {
 
 .apresentacao__links__link {
     /* background-color: #22D4FD; */
+    display: flex;
     border: 2px solid #22D4FD;
     width: 378px;
     text-align: center;
@@ -73,4 +74,19 @@ img {
     font-family: "Krona One", sans-serif;
     font-weight: 400;
     font-size: 24px;
+}
+
+.logo__github {
+    width: 32px;
+    height: 32px;
+}
+
+.logo__linkedin {
+    width: 32px;
+    height: 32px;
+}
+
+.logo__twitch {
+    width: 32px;
+    height: 32px;
 }

@@ -58,7 +58,7 @@ img {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
     font-weight: 400px;
 }
